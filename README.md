@@ -14,7 +14,7 @@ This project implements a simple content-based news article recommender using TF
 
 The dataset should be a `.tsv` (tab-separated) file with at least 4 columns: Only `news_id`, `category`, and `title` are used.
 
-Business Use Case
+##  Business Use Case
 This tool helps digital news platforms increase user engagement by suggesting related articles, driving higher session duration, lower bounce rates, and better ad performance.
 
 ##  TODO / Improvements
